@@ -1,4 +1,4 @@
-///we will write phishing function to get user data and post it to Firebase
+//we will write phishing function to get user data and post it to Firebase
 //lets try
 
 function phishingFunction(){
